@@ -1,6 +1,6 @@
 # Fullstack Java Project
 
-## Firstname Lastname (Class)
+## Lucas Dijk (Class)
 Change the name and Class in the title above
 
 ## Folder structure
