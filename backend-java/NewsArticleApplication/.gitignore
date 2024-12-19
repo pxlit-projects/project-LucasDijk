@@ -1,0 +1,46 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Maven / Java build artifacts
+target/
+out/
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs and temp files
+*.log
+*.tmp
+hs_err_pid*
+*.pid
+
+# Maven wrapper files (if not needed)
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ project-specific files
+*.idea/
+
+
+# Eureka
+eureka-server.log
+
+# Misc
+*.old
+
+# Ignore binary files
+*.exe
+*.dll
+*.so
+*.dylib
